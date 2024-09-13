@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @batukoray
 - 👀 I’m interested in Artificial Intelligence and its abilities to control the way towards the future
 - 🌱 I’m currently learning Python, Java, HL Mathematics
-- 📫 Reach me @ batukoraymasakofficial@gmail.com
+- 📫 Reach me @ batukoraymasak@gmail.com
 - ⚡ Fun fact: Way ahead of people at maths
 
 <!---
