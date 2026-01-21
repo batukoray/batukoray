@@ -31,12 +31,12 @@ focus: NLP • Transformers • Multilingual Systems
 ### Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=batukoray&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=C77DFF&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=batukoray&hide_border=true&background=0D1117&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=batukoray&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=A78BFA&text_color=ffffff&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=batukoray&hide_border=true&background=0D1117&ring=BB86FC&fire=E0B0FF&currStreakLabel=A78BFA&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batukoray&theme=dark&hide_border=true&bg_color=0D1117&color=C77DFF&line=C77DFF&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=batukoray&theme=dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=A78BFA&point=E0B0FF" width="100%"/>
 </div>
 
 ---
@@ -49,6 +49,6 @@ focus: NLP • Transformers • Multilingual Systems
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:7F5AF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,33:7F5AF0,66:9945FF,100:C77DFF&height=120&section=footer"/>
 
 </div>
