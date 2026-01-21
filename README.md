@@ -49,6 +49,6 @@ focus: NLP • Transformers • Multilingual Systems
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,10,6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,23,27&height=120&section=footer"/>
 
 </div>
