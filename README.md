@@ -20,17 +20,8 @@ education: Özyeğin University
 majors:
   - AI & Data Engineering
   - Computer Science
-role: Peer Advisor | IEEE Computer Society
+gpa: 3.72 / 4.00 (High Honors)
 ```
-
-<br>
-
-### Currently Focused On
-
-- **NLP & Transformer Architectures**
-- **Large Language Models**
-- **Cybersecurity & Ethical Hacking**
-- **Building Developer Tools**
 
 ---
 
@@ -38,7 +29,7 @@ role: Peer Advisor | IEEE Computer Society
 
 ### Arsenal
 
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,latex,git,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,latex,git&theme=dark" />
 
 </div>
 
@@ -56,14 +47,6 @@ role: Peer Advisor | IEEE Computer Society
 ---
 
 <div align="center">
-
-### Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batukoraymasak@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/batukoraymasak)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/batukoray)
-
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=batukoray&style=for-the-badge&color=6C63FF" alt="Profile Views">
 
