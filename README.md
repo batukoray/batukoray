@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,23,10,6&height=200&text=Batu%20Koray%20Masak&fontSize=90&fontColor=fff"/>
-  
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,33:7F5AF0,66:9945FF,100:C77DFF&height=200&text=Batu%20Koray%20Masak&fontSize=90&fontColor=fff"/>
+
 $${\color{C77DFF}\Huge \text{Attention}(Q,K,V)=\text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V}$$
 
 </div>
@@ -49,6 +49,6 @@ focus: NLP • Transformers • Multilingual Systems
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,23,27&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9945FF,100:7F5AF0&height=120&section=footer"/>
 
 </div>
