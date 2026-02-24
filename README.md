@@ -1,54 +1,9 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667EEA,33:7F5AF0,66:9945FF,100:C77DFF&height=200&text=Batu%20Koray%20Masak&fontSize=90&fontColor=fff"/>
+### Batu Koray Masak
 
-$${\color{C77DFF}\Huge \text{Attention}(Q,K,V)=\text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V}$$
+Sophomore at Özyeğin University, double majoring in AI & Data Engineering and Computer Science.
 
-</div>
-
----
-
-### About
-```yaml
-name: Batu Koray Masak
-location: Istanbul, Turkey
-education: Özyeğin University
-majors: ["AI & Data Engineering", "Computer Science"]
-gpa: 3.72 / 4.00
-rank: 2 / 53
-focus: NLP • Transformers • Multilingual Systems
-```
+Interested in NLP, transformer architectures, and LLM security.
 
 ---
 
-### Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,latex,git&theme=dark" />
-</div>
-
----
-
-### Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=batukoray&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=A78BFA&text_color=ffffff&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=batukoray&hide_border=true&background=0D1117&ring=BB86FC&fire=E0B0FF&currStreakLabel=A78BFA&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batukoray&theme=dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=A78BFA&point=E0B0FF" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-<i>"It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment."</i>
-
-**Carl Friedrich Gauss**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,33:7F5AF0,66:9945FF,100:C77DFF&height=120&section=footer"/>
-
-</div>
+Python · Java · PyTorch · Hugging Face · pandas · LaTeX · Git
