@@ -6,4 +6,4 @@ Interested in NLP, transformer architectures, and LLM security.
 
 ---
 
-Python · Java · PyTorch · Hugging Face · pandas · LaTeX · Git
+Python · Java · {insert_nlp_libraries_here} · PyTorch · Hugging Face · pandas · LaTeX
