@@ -1,4 +1,4 @@
-### Batu Koray Masak
+<img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner.png" width="400"/>
 
 Sophomore at Özyeğin University, double majoring in AI & Data Engineering and Computer Science.
 
