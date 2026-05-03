@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner.png" width="800"/>
 
-I'm **Batu Koray Masak**, sophomore at **Özyeğin University**, Istanbul. Double majoring in **AI & Data Engineering** and **Computer Science**. Currently ranked **#1** in my department.
+I'm Batu Koray Masak, sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Currently ranked #1 in my department.
 
 Mostly interested in NLP, transformer architectures, and **breaking** LLMs (literally).
 
@@ -8,9 +8,9 @@ Mostly interested in NLP, transformer architectures, and **breaking** LLMs (lite
 - LLM red-teaming - Studying techniques that'll **break** LLMs
 
 ## My existing projects
-- **[El Pulpo](https://github.com/batukoray/El_Pulpo)**, A CLI tool for checklist-like notetaking, text translation and so on.
-- **[Korado](https://github.com/batukoray/Korado)**, A LINDO-like LP solver for any OS, built because LINDO doesn't run on Mac
-- **[Ozyegin Course Materials](https://github.com/batukoray/Ozyegin_Course_Materials)**, A repository containing Özyeğin's CS and AI and other course materials and past exams, for my peer advising role
+- [El Pulpo](https://github.com/batukoray/El_Pulpo), A CLI tool for checklist-like notetaking, text translation and so on.
+- [Korado](https://github.com/batukoray/Korado), A LINDO-like LP solver for any OS, built because LINDO doesn't run on Mac
+- [Ozyegin Course Materials](https://github.com/batukoray/Ozyegin_Course_Materials), A repository containing Özyeğin's CS and AI and other course materials and past exams, for my peer advising role
 
 
 ## Stack
