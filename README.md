@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_new.png" width="800"/>
+<img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_gold.png" width="800"/>
 
 I'm Batu Koray Masak, sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Currently ranked #1 in my department.
 
