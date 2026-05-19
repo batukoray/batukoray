@@ -2,7 +2,7 @@
 
 I'm Batu Koray Masak, sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Ranked #1 in my department.
 
-Mostly interested in NLP, transformer architectures, and **breaking** LLMs (literally).
+Mostly interested in NLP, transformer architectures, and LLM security.
 
 ## What I'm working on
 
