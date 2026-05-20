@@ -9,6 +9,7 @@ Mostly interested in NLP, transformer architectures, and LLM security.
 - **Ethos Attacks** - Multi-turn credibility-based jailbreaking of LLMs (independent research)
 - **LLaMA 2 From Scratch** - Implementing the decoder-only transformer architecture in Python without external ML libraries
 - **Turkish Inflation Research Study** - Large-scale web scraping pipeline tracking ~1.27M product records across Turkish e-commerce platforms (conference paper in progress)
+- Smaller projects such as **Korado** (CLI Tool for using Simplex Algorithm), **El Pulpo** (A CLI Productivity Helper), **HaDi** (Hacker Dispatch CLI Interface), **DS&A Study Hub** (An AI-Friendly Environment for Studying Data Structures and Algorithms in Java)
 
 ## Stack
 
