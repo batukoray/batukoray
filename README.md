@@ -1,7 +1,3 @@
-# Batu Koray Masak
-
-This profile collects the projects, experiments, and research notes I build under **batukoray**.
-
 <img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_gold.png" width="800"/>
 
 I'm Batu Koray Masak, a sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Ranked #1 in my department.
