@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_gold.png" width="800"/>
 
-I'm Batu Koray Masak, a sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Ranked #3 in my department with a CGPA of 3.77.
+I'm Batu Koray Masak, a sophomore at Özyeğin University, Istanbul. Double majoring in AI & Data Engineering and Computer Science. Have consistently ranked in the top 3 in my department throughout my university life, with a current CGPA of 3.77.
 
 Mostly interested in NLP, transformer architectures, and LLM security.
 
