@@ -1,9 +1,9 @@
 <p align="left">
   <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_gold.png" width="390" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/ozu_pixelated.png" width="130" />
+  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/ozu_logo.png" width="130" />
   &nbsp;&nbsp;&nbsp;
-  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/koc_logo_pixelated.png" width="130" />
+  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/koc_logo.png" width="130" />
 </p>
 
 
