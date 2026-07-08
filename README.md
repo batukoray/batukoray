@@ -1,11 +1,4 @@
-<p align="left">
-  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/batu_banner_gold.png" width="390" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/ozu_logo.png" width="130" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="middle" src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/koc_logo.png" width="130" />
-</p>
-
+![Main Banner](https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/main_banner.png)
 
 I'm Batu Koray Masak, an undergraduate researcher at Koç University and a sophomore at Özyeğin University in Istanbul, double majoring in AI & Data Engineering and Computer Science. I have consistently ranked in the top three of my department throughout university, with a current CGPA of 3.77/4.00.
 
