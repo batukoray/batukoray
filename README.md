@@ -1,8 +1,17 @@
-![Main Banner](https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/banner.png)
+<img
+  align="left"
+  src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/banner2.png"
+  alt="Main Banner"
+  width="360"
+/>
 
 I'm Batu Koray Masak, an undergraduate researcher at Koç University and a sophomore at Özyeğin University in Istanbul, double majoring in AI & Data Engineering and Computer Science. I have consistently ranked in the top three of my department throughout university, with a current CGPA of 3.77/4.00.
 
+<br>
+
 My main interests are NLP, transformer architectures, trustworthy language models, and LLM security.
+
+<br clear="left">
 
 ## What I'm working on
 
