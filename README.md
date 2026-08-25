@@ -1,6 +1,6 @@
 <img
   align="left"
-  src="assets/batu-library-dotified.svg"
+  src="https://raw.githubusercontent.com/batukoray/assets_of_mine/refs/heads/main/banner2.png"
   alt="Main Banner"
   width="200"
 />
