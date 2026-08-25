@@ -1,6 +1,6 @@
 <img
   align="left"
-  src="assets/batu-banner-dotified.svg"
+  src="assets/batu-banner.svg"
   alt="Main Banner"
   width="200"
 />
@@ -10,4 +10,3 @@ I'm Batu Koray Masak, an undergraduate researcher at Koç University and a sopho
 <br>
 
 My main interests are NLP, transformer architectures, trustworthy language models, and LLM security.
-
