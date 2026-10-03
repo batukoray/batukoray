@@ -12,6 +12,7 @@ I'm Batu Koray Masak, an undergraduate researcher at Koç University's Security,
 My main interests are Natural Language Processing, Large Language Models, and Membership Inference Attacks in the domain of LLMs (I study Membership Inference Attacks on LLMs in SPADE Lab). My broader interests also cover LLM security, such as LLM red-teaming, jailbreaking, Constitutional AI, etc.
 
 <br clear="left"/>
+<br>
 
 Selected Coursework: AI425 Large Language Models, CS449 Natural Language Processing, AI303 Machine Learning, AI301 Artificial Intelligence, AI201 Data Science, CS201 Data Structures & Algorithms, MATH217 Probability & Statistics, MATH103-104 Calculus 1-2.
 
