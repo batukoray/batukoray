@@ -5,7 +5,7 @@
   align="left"
 />
 
-I'm Batu Koray Masak, an undergraduate researcher at Koç University's Security, Privacy and Data Engineering (SPADE) Lab and a junior student at Özyeğin University in Istanbul, double majoring in AI & Data Engineering and Computer Science. I currently rank in the top 3% of the Faculty of Engineering of Özyeğin University and have consistently been ranked in the top 3 of my main major throughout my university life.
+I'm Batu Koray Masak, an undergraduate researcher at Koç University's Security, Privacy and Data Engineering (SPADE) Lab and a junior student at Özyeğin University in Istanbul, double majoring in AI & Data Engineering and Computer Science. I currently rank among the top 3% of the Faculty of Engineering of Özyeğin University and have consistently been ranked among the top 3 of my main major throughout my university life.
 
 <br>
 
